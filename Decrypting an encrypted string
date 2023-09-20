@@ -1,10 +1,11 @@
 The Challenge: I was to make a bunch of letters and numbers make sense.
 *** 
 My Approach:
-  - I studied the challenge. A hint to what type of string was presented was given.
+  - I studied the challenge. A hint as to what type of string was presented was given.
+https://github.com/arademm/PicoCTF2023/issues/1#issue-1905085933
   - I used a Linux machine's command line interface to try decrypting the string using an in-built decryption tool for base64 decryption
   - The result didn't make sense so I tried the decryption command again and again using the result.
-  - Finally it made sense.
+  - Finally, it made sense.
 
 ***
 Tools Used:
